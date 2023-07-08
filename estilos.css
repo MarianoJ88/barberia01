@@ -1,0 +1,407 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.navbar {
+    background-color: rgba(126, 80, 6, 0.947) !important;
+
+}
+
+.navbar-toggler {
+
+    border: 3px solid saddlebrown !important;
+
+
+}
+
+.navbar-toggler i {
+
+    color: white !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+
+    color: darkgoldenrod !important;
+}
+
+.jumbotron {
+
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    color: white;
+    text-shadow: 0 0 5px #333;
+    border-radius: 0;
+    height: 350px;
+    margin-bottom: 0;
+}
+
+h2 {
+
+    background-color: darkgoldenrod;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+
+.container-fluid {
+
+    text-align: center;
+
+}
+
+
+.container-fluid section {
+
+    border: 10px solid sienna;
+    text-align: center;
+    background-image: url(./img/blanco.jpg);
+    background-size: cover;
+    color: sienna;
+    text-shadow: 0 0 8px;
+    font-size: 50px solid;
+    height: 400px;
+
+
+}
+
+
+h3 {
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.container-fluid1 {
+
+    text-align: center;
+    padding: 30px;
+
+
+}
+
+.ima1 {
+
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    text-align: center;
+
+
+}
+
+.ima2 {
+
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+
+}
+
+.ima3 {
+
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    color: sienna;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+.parrafo {
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+
+.contenedor {
+    text-align: center;
+
+}
+
+.ima4 {
+
+    border-radius: 20px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+.padre {
+    height: 180px;
+    width: 300px;
+    margin: 80px;
+    text-align: center;
+    float: left;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+
+}
+
+h4{
+background-color: sienna;
+color: white;
+margin-bottom: 30px;
+
+}
+
+.mapa {
+
+    margin-top: 30px;
+}
+
+.parra {
+
+    margin-top: 150px;
+    padding-left: 10px;
+}
+
+
+.formulario {
+
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.galeria {
+    text-align: center;
+    padding: 60px;
+
+}
+
+.container-fluid2{
+
+    text-align: center;
+    padding: 30px;
+
+
+}
+
+.container-fluid2 section{
+
+    text-align: center;
+}
+
+.g1 {
+    border-radius: 30px;
+    border-style: solid;
+    margin-bottom: 30px;
+
+}
+
+.g2 {
+    border-radius: 30px;
+    border-style: solid;
+    margin-bottom: 30px;
+}
+
+.g3 {
+    border-radius: 30px;
+    border-style: solid;
+    margin-bottom: 30px;
+}
+
+.g4 {
+    border-radius: 30px;
+    border-style: solid;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.g5 {
+    border-radius: 30px;
+    border-style: solid;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.g6 {
+    border-radius: 30px;
+    border-style: solid;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.servicio1
+{
+
+    margin: 80px;
+    display: flex;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+
+.text1
+{
+    padding-left: 20px;
+    text-align: start;
+}
+
+
+.servicio2 {
+
+    display: flex;
+    margin-left: 40px;
+    padding-left: 50px;
+    margin-right: 60px;
+
+}
+
+
+.text2 {
+    padding-right: 20px;
+    text-align: start;
+}
+
+.servicio3 {
+    margin: 80px;
+    display: flex;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+
+.text3 {
+    padding-left: 20px;
+    text-align: start;
+    margin-top: 0%;
+    text-decoration-color: black;
+    
+}
+
+h5 {
+    text-decoration: underline;
+    color: sienna;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-block-start: 0%;
+
+}
+
+
+.bloque {
+
+    width: 80%;
+    height: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 200px);
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.item {
+    border: 2px solid #333;
+    background-image: url(./img/producto\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.item1 {
+    grid-column: 1/2;
+    grid-row: 1/3;
+    background-image: url(./img/fondo\ silla.jpg);
+
+}
+
+.item2 {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    background-image: url(./img/brocha.jpg);
+    grid gap: 30px 50px;
+
+}
+
+.item3 {
+    grid-column: 3/5;
+    grid-row: 1/2;
+    background-image: url(./img/shaver.jpg);
+}
+
+.item4 {
+    grid-column: 2/3;
+    grid-row: 2/4;
+    background-image: url(./img/barber.jpg);
+}
+
+.item5 {
+    grid-column: 3/4;
+    grid-row: 2/3;
+    background-image: url(./img/brocha\ espuma.jpg);
+}
+
+
+
+.item6 {
+    grid-column: 4/5;
+    grid-row: 2/3;
+    background-image: url(./img/producto\ 2.jpg);
+}
+
+.item7 {
+    grid-column: 1/2;
+    grid-row: 3/4;
+    background-image: url(./img/blanco\ y\ negro.jpg);
+}
+
+.item8 {
+    grid-column: 3/5;
+    grid-row: 3/4;
+}
+
+
+
+footer {
+    background-color: rgba(126, 80, 6, 0.947);
+    height: 150px;
+    width: 100%;
+
+}
+
+.fin-page {
+    height: 110px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text-fin {
+    color: white;
+}
+
+.fin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer i {
+    padding: 20px;
+    width: 100%;
+}
