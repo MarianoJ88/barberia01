@@ -332,7 +332,7 @@ h5 {
     grid-column: 2/3;
     grid-row: 1/2;
     background-image: url(./img/brocha.jpg);
-    grid gap: 30px 50px;
+    grid-row: 30px;
 
 }
 
